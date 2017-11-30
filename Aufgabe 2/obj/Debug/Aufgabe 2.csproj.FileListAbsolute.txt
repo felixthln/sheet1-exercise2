@@ -1,0 +1,20 @@
+C:\Users\felix\Desktop\Aufgabe 2\Aufgabe 2\bin\Debug\Aufgabe 2.exe.config
+C:\Users\felix\Desktop\Aufgabe 2\Aufgabe 2\bin\Debug\Aufgabe 2.exe
+C:\Users\felix\Desktop\Aufgabe 2\Aufgabe 2\bin\Debug\Aufgabe 2.pdb
+C:\Users\felix\Desktop\Aufgabe 2\Aufgabe 2\obj\Debug\Aufgabe 2.csprojResolveAssemblyReference.cache
+C:\Users\felix\Desktop\Aufgabe 2\Aufgabe 2\obj\Debug\Aufgabe_2.Thermostat.resources
+C:\Users\felix\Desktop\Aufgabe 2\Aufgabe 2\obj\Debug\Aufgabe_2.Properties.Resources.resources
+C:\Users\felix\Desktop\Aufgabe 2\Aufgabe 2\obj\Debug\Aufgabe 2.csproj.GenerateResource.Cache
+C:\Users\felix\Desktop\Aufgabe 2\Aufgabe 2\obj\Debug\Aufgabe 2.csproj.CoreCompileInputs.cache
+C:\Users\felix\Desktop\Aufgabe 2\Aufgabe 2\obj\Debug\Aufgabe 2.exe
+C:\Users\felix\Desktop\Aufgabe 2\Aufgabe 2\obj\Debug\Aufgabe 2.pdb
+C:\Users\felix\Desktop\C# Developing\Aufgabenblatt 1\Aufgabe 2\Aufgabe 2\bin\Debug\Aufgabe 2.exe.config
+C:\Users\felix\Desktop\C# Developing\Aufgabenblatt 1\Aufgabe 2\Aufgabe 2\bin\Debug\Aufgabe 2.exe
+C:\Users\felix\Desktop\C# Developing\Aufgabenblatt 1\Aufgabe 2\Aufgabe 2\bin\Debug\Aufgabe 2.pdb
+C:\Users\felix\Desktop\C# Developing\Aufgabenblatt 1\Aufgabe 2\Aufgabe 2\obj\Debug\Aufgabe 2.csprojResolveAssemblyReference.cache
+C:\Users\felix\Desktop\C# Developing\Aufgabenblatt 1\Aufgabe 2\Aufgabe 2\obj\Debug\Aufgabe_2.Thermostat.resources
+C:\Users\felix\Desktop\C# Developing\Aufgabenblatt 1\Aufgabe 2\Aufgabe 2\obj\Debug\Aufgabe_2.Properties.Resources.resources
+C:\Users\felix\Desktop\C# Developing\Aufgabenblatt 1\Aufgabe 2\Aufgabe 2\obj\Debug\Aufgabe 2.csproj.GenerateResource.Cache
+C:\Users\felix\Desktop\C# Developing\Aufgabenblatt 1\Aufgabe 2\Aufgabe 2\obj\Debug\Aufgabe 2.csproj.CoreCompileInputs.cache
+C:\Users\felix\Desktop\C# Developing\Aufgabenblatt 1\Aufgabe 2\Aufgabe 2\obj\Debug\Aufgabe 2.exe
+C:\Users\felix\Desktop\C# Developing\Aufgabenblatt 1\Aufgabe 2\Aufgabe 2\obj\Debug\Aufgabe 2.pdb
